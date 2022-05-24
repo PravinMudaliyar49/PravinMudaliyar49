@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PravinMudaliyar49
-- 👀 I’m interested in Core Java, JavaScrip,t Web development and Data structures and Algorithms.
+- 👀 I’m interested in Core Java, JavaScript, Web development and Data structures Algorithms.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on Web dev projects.
 - 📫 How to contact me: pravincoding49@gmail.com 
