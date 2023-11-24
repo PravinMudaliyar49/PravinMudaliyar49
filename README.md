@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PravinMudaliyar49
-- 👀 I’m interested in Core Java, JavaScript, Web development and Data structures Algorithms.
-- 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on Web dev projects.
+- 👀 I’m interested in Core Java, CSS, JavaScript, React, MERN, and Data structures Algorithms.
+- 🌱 I am currently in the process of transitioning to a freelance full-stack developer.
+- 💞️ I am seeking collaborations with designers and startups interested in building their online brand.
 - 📫 How to contact me: pravincoding49@gmail.com 
 
 <!---
